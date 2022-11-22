@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **SQL databases,Git,Data structures,New trends in Development and Anything about Go**
 
-- 📫 How to reach me **safwansappu0@gmail.com**
+- 📫  reach me at **safwansappu0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
