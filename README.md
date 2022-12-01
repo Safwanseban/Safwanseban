@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Safwan</h1>
-<h3 align="center">Backend Dev who loves to work with Go(Golang)</h3>
+<h3 align="center">Self-Taught Go Dev & Devops Practitioner  </h3>
 
-- 🌱 I’m currently learning **Go,Docker,Kubernetes,Redis**
+
+- 🌱 I’m currently learning **Go Docker Kubernetes Redis & Microservices**
 
 - 💬 Ask me about **SQL databases,Git,Data structures,New trends in Development and Anything about Go**
 
