@@ -2,7 +2,7 @@
 <h3 align="center">Self-Taught Go Dev & Devops Practitioner  </h3>
 
 
-- 🌱 I’m currently learning **Go Docker Kubernetes Redis & Microservices**
+- 🌱 I’m currently learning **Docker Kubernetes Redis & Microservices**
 
 - 💬 Ask me about **SQL databases,Git,Data structures,New trends in Development and Anything about Go**
 
